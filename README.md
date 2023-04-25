@@ -1,4 +1,4 @@
-# brain_tumor_classification
+# Brain Tumor Classification
 
 Different Classifiers:
 1. Random Forest
