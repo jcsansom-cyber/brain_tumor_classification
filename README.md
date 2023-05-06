@@ -6,3 +6,9 @@ Different Classifiers:
 3. K-Nearest Neighbors (KNN)
 
 Paper Format: ICML
+
+Group Members:
+- Justin Smith
+- Jaycee Sansonm
+- Bao-Nhi Vu
+- David Pham
